@@ -1,7 +1,7 @@
 # HILL CIPHER
 ## EX. NO: 3
-## Name : Naveen Kumar .S
-## Reg no : 2122240402214
+## Name : Abinesh M
+## Reg no : 212224040009
 ## AIM:
 IMPLEMENTATION OF HILL CIPHER
  
